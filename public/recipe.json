@@ -11,8 +11,8 @@
       "100 g bell peppers",
       "2 cloves garlic"
     ],
-    "preparing_time": "30 min",
-    "calories": "320 calories"
+    "preparing_time": "30",
+    "calories": "320"
   },
   {
     "recipe_image": "https://ibb.co.com/727fd9c",
@@ -26,8 +26,8 @@
       "2 tbsp curry powder",
       "1 onion"
     ],
-    "preparing_time": "40 min",
-    "calories": "450 calories"
+    "preparing_time": "40",
+    "calories": "450"
   },
   {
     "recipe_image": "https://ibb.co.com/m0BCXVP",
@@ -41,8 +41,8 @@
       "100 g shredded cheese",
       "1 avocado"
     ],
-    "preparing_time": "25 min",
-    "calories": "600 calories"
+    "preparing_time": "25",
+    "calories": "600"
   },
   {
     "recipe_image": "https://ibb.co.com/rQ0rN62",
@@ -56,8 +56,8 @@
       "50 g olives",
       "1 tbsp olive oil"
     ],
-    "preparing_time": "15 min",
-    "calories": "200 calories"
+    "preparing_time": "15",
+    "calories": "200"
   },
   {
     "recipe_image": "https://ibb.co.com/n853LSW",
@@ -71,8 +71,8 @@
       "50 g butter",
       "2 cloves garlic"
     ],
-    "preparing_time": "20 min",
-    "calories": "700 calories"
+    "preparing_time": "20",
+    "calories": "700"
   },
   {
     "recipe_image": "https://ibb.co.com/c17tnLP",
@@ -86,7 +86,7 @@
       "2 eggs",
       "150 ml milk"
     ],
-    "preparing_time": "60 min",
-    "calories": "400 calories"
+    "preparing_time": "60",
+    "calories": "400"
   }
 ]

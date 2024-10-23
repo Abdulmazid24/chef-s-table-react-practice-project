@@ -40,11 +40,11 @@ const Recipes = ({ addRecipeToQueue }) => {
               <div className="flex gap-5 items-center font-medium">
                 <div className="flex items-center gap-1 text-xs">
                   <i className="fa-regular fa-clock "></i>
-                  <p>{recipe.preparing_time}</p>
+                  <p>{recipe.preparing_time} min</p>
                 </div>
                 <div className="flex gap-1 items-center text-xs">
                   <i className="fa-solid fa-fire-flame-curved text-xl"></i>
-                  <p>{recipe.calories}</p>
+                  <p>{recipe.calories} calories</p>
                 </div>
               </div>
               <div className="card-actions">
